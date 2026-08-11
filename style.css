@@ -27,19 +27,6 @@ body {
     margin:0 auto;
 }
 
-.form-image {
-    width: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #fde3a7d7;
-    padding: 1rem;
-}
-
-.form-image {
-    width: 31rem;
-}
-
 .form {
     width: 50%;
     display: flex;
@@ -183,10 +170,4 @@ body {
     font-size: 0.93rem;
     font-weight: 500;
     color: #fff;
-}
-
-.form-image img {
-    width: 100%;
-    max-width:31rem;
-    height: auto;
 }
